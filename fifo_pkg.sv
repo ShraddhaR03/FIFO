@@ -7,7 +7,7 @@ import uvm_pkg::*;
 `include "op_monitor.sv"
 `include "ip_monitor.sv"
 `include "ip_driver.sv"
-`include "ip_seqr.sv"
+`include "ip_seqr.sv" 
 `include "op_agent.sv"
 `include "ip_agent.sv"
 `include "scoreboard.sv"
