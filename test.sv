@@ -3,7 +3,7 @@ class fifo_test extends uvm_test;
   env 	h_env;
   vseq	h_vseq;
   seq	h_seq;
-  vseqr h_vseqr;
+  vseqr h_vseqr;  
 
   
   function new(string name = "fifo_test",uvm_component parent);
